@@ -16,6 +16,7 @@
 * CSS
 * JS
 * XD
+* PS
 
 
 ###### _Code examples:_
